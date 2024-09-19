@@ -1,4 +1,4 @@
-# Digit-Recognition-with-CNN
+# Digit-Recognition-with-CNN accuracy 98%
  implements and explains Python code to recognize handwritten digits with CNN using Keras accuracy 98%
 # Key Components
 # 1-Environment Setup:
