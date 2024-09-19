@@ -4,7 +4,7 @@
 # 1-Environment Setup:
     The code begins by installing the Kaggle API and loading the dataset from Kaggle. 
     This includes authentication using a kaggle.json file, which contains the API credentials.
-# 2=Data Loading:
+# 2-Data Loading:
     The training and test datasets are loaded into pandas DataFrames.
     The training dataset includes both images and labels, while the test dataset contains only images.
 # 3-Data Preprocessing:
